@@ -1,4 +1,4 @@
-const Scheduler = require('./scheduler.js')
+const Scheduler = require('./lib/scheduler.js')
 
 let newFlight
 
