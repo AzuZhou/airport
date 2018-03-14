@@ -12,6 +12,4 @@ newFlight = new Scheduler([{
 }])
 
 
-console.log(newFlight.unscheduleAt("October 13, 2014 12:56:00"))
-console.log(newFlight.flights)
 
